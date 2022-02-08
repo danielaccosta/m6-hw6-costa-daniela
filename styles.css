@@ -19,12 +19,17 @@ main, nav{
     margin: 15px auto;
 }
 
+.containeer{
+    max-width: 0 auto ;
+    margin: 0 auto;
+} 
+
 div.container {
     display: flex ;
 }
 
 h1{
-    margin-right: auto ;
+    margin: auto ;
 }
 
 a {
